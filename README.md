@@ -49,7 +49,8 @@ AMC TRACKER.lvproj
 
 ## 🧑‍💻 Author
 **Aman Kumar Mahatha**  
-Email: [Your Email Here]
+Email: amanwork008@gmail.com
+LinkedIn: https://www.linkedin.com/in/aman800/
 
 ## 📄 License
 This project is licensed under the MIT License.
