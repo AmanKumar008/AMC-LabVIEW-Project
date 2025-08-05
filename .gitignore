@@ -1,0 +1,8 @@
+*.aliases 
+*.lvlps 
+*.lvclassp 
+*.cache 
+*.orig 
+*.bak 
+.vscode/ 
+node_modules/ 
